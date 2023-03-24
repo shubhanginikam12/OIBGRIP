@@ -1,1 +1,3 @@
 # OIBGRIP
+SIMPLE CALCULATOR
+A siple Calculator made with HTML,CSS and JAVASCRIPT
